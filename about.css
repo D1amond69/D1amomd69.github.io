@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@75..125,600&display=swap');
+
+body{
+    background-color: black;
+}
+
+.navibar ul{
+    list-style-type: none;
+    background-color: rgb(43, 43, 43);
+    padding: 0px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+.navibar a{
+    color: white;
+    text-decoration: none;
+}
+.b1navi{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    font-family: "Fredoka", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.button1navi{
+    background-color: transparent;
+    border-color: transparent;
+}
+.tex1{
+    font-size: 32px;
+    color: white;
+    background-color: transparent;
+    font-family: "Fredoka", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;  
+}
+.tex1exp{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    font-family: "Fredoka", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal; 
+     
+}
+.tex1exp a{
+    color: white;
+}
+.b2navi{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    font-family: "Fredoka", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.button2navi{
+    background-color: transparent;
+    border-color: transparent;
+}
